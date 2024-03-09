@@ -24,7 +24,7 @@ client.on('ready', async () => {
 
   const r = new Discord.RichPresence()
     .setApplicationId('1215552367957639198') // make your bot in discord.com/developers and paste the application ID here
-    .setType('STREAMING')
+    .setType('WATCHING')
     .setURL('https://www.youtube.com/watch') //Must be a youtube video link 
     .setState('AKA ARCTIC_HERE')
     .setName('GHOST INSTAGRAM')
