@@ -30,7 +30,7 @@ client.on('ready', async () => {
     .setName('GHOST INSTAGRAM')
     .setDetails(`GHOST [${formatTime()}]`) //[${formatTime()}] and this for showing time of stream.
     .setStartTimestamp(Date.now())
-    .setAssetsLargeImage('https://cdn.discordapp.com/attachments/862664116061995008/1215547667367596042/Screenshot_20240308_104446_CapCut.png?ex=65fd25fb&is=65eab0fb&hm=c08c145573aaf310a450321b32bdaa8d5339351c0bef47fec46925fe5e0bef99&') //You can put links in tenor or discord and etc. 
+    .setAssetsLargeImage('https://cdn.discordapp.com/attachments/862623853367525396/1217180283816775700/VideoCapture_20240312-235904.jpg?ex=66031679&is=65f0a179&hm=84b2364f54d7a8dc932b6eb409401967473d0ef8637a731fc8632d6ea59e4ca4&') //You can put links in tenor or discord and etc. 
     .setAssetsLargeText('𝙎𝙀𝙍𝙑𝙀𝙍 𝘿𝙀𝙎𝙄𝙂𝙉𝙀𝙍/ 𝘿𝙀𝙑') //Text when you hover the Large image
     .setAssetsSmallImage('https://cdn.discordapp.com/attachments/862664116061995008/1215561285127639050/output-onlinegiftools.gif?ex=65fd32aa&is=65eabdaa&hm=16892305604fae45b9747491dac480760c39acc8aac24ab068577e3ed3e678bf&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('THE GHOST') //Text when you hover the Small image
